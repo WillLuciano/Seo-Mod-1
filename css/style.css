@@ -145,10 +145,6 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 100%;
-}
-
 .search-engine-optimization h2 {
     margin-bottom: 30px;
     font-size: 36px;
@@ -162,6 +158,11 @@ p {
     text-align: left;
     padding-right: 20px;
 }
+
+.search-engine-optimization img {
+    max-height: 80%;
+}
+
 /* online reputation styles */
 .online-reputation-management h2 {
     margin-bottom: 30px;
